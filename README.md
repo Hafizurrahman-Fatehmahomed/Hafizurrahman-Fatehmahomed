@@ -10,8 +10,9 @@
 </p>
 
 ---
-
 ## About Me 🚀
+
+<img src="assets/trainer-card.png" align="right" width="320" style="margin-left:20px; margin-bottom:20px;" />
 
 I'm an **Infrastructure Engineer** with a strong focus on **Microsoft Azure**, **Infrastructure as Code (IaC)**, **cloud security**, and **AI engineering**.
 
