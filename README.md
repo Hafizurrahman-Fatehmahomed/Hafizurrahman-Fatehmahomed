@@ -23,8 +23,8 @@ I actively integrate **AI-assisted engineering workflows** into my day-to-day wo
 - ☁️ **Platforms:** Microsoft Azure, Hybrid & On-Prem
 - 🛠 **Infrastructure as Code:** Bicep, Terraform
 - 🔐 **Focus Areas:** Cloud Security, Zero Trust, Identity, Landing Zones
-- 📜 **Languages & Automation:** PowerShell, Python
-- 🤖 **AI Tooling:** GitHub Copilot, Claude Code, Spec Kit
+- 📜 **Languages & Automation:** PowerShell, Python, React
+- 🤖 **AI Tooling:** GitHub Copilot, Claude Code, Spec Kit, Microsoft Foundry, Copilot Studio
 
 ---
 
