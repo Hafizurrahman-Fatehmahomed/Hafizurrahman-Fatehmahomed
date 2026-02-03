@@ -66,6 +66,7 @@ I actively integrate **AI-assisted engineering workflows** into my day-to-day wo
 
 📜 **View all credentials:**  
 👉 https://learn.microsoft.com/en-us/users/hafizurrahman-0048/credentials/certifications?tab=credentials-tab
+
 👉 https://www.credly.com/users/hafizurrahman-fatehmahomed/badges#credly
 
 ---
