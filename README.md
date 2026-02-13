@@ -79,6 +79,13 @@ I actively integrate **AI-assisted engineering workflows** into my day-to-day wo
 👉 https://hafizurrahman-fatehmahomed.github.io/hands-on-containers/
 
 ---
+
+
+ 
+## Hackathon Projects
+👉 https://rules-as-code-platform.vercel.app/  | GovTechNL 5/6 Feb 2026
+
+---
 ## Get in Touch 📬
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/hafiz-fatehmahomed-0089a6115/
