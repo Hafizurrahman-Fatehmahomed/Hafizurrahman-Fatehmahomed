@@ -78,6 +78,8 @@ I actively integrate **AI-assisted engineering workflows** into my day-to-day wo
 
 👉 https://hafizurrahman-fatehmahomed.github.io/hands-on-containers/
 
+👉 https://hafizurrahman-fatehmahomed.github.io/mastering-claude-code/ 
+
 ---
 
 
